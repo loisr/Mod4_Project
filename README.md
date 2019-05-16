@@ -22,7 +22,7 @@ Our best performing model had a tvalidation accuracy and a test accuracy score o
 ![image of best model outcomes](/readme/BestModel.png)
 
 ## Model Results
-Given the computing power problems we actually perfer our second best model as it has a validation accuracy score of 83%, only took 10 minitues to run and doesn't crash Colabs. This model uses InceptionV# with weights as the base model.
+Given the computing power problems we actually perfer our second best model as it has a validation accuracy score of 83%, only took 10 minitues to run and doesn't crash Colabs. This model uses InceptionV3 with weights as the base model.
 
 ![image of next model outcomes](/readme/imagenet2_testcm.png)
 
